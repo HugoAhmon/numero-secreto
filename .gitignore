@@ -1,0 +1,7 @@
+##pasta para ignorar
+temp/ 
+
+##padrao para ignorar, ou seja, todos os arquivos terminados com a extensao nao vai subir.
+# *.css (Esta comentado pois existe um arquivo .css)
+
+# Entre outros exemplos 
